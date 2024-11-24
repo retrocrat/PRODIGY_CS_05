@@ -41,6 +41,8 @@ This tool is a Python-based network packet analyzer developed using the Scapy li
 
 This tool is a lightweight yet powerful solution for **network traffic analysis**, making it useful for **network security research** and understanding real-time traffic patterns. Looking forward to applying these concepts in more advanced projects! 🚀
 
+---
+
 ### **Code**  
 
 Here is the Python code for the Network Packet Analyzer:
