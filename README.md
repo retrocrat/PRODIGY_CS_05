@@ -1,5 +1,5 @@
 # Network Packet Analyzer
----
+
 This tool is a Python-based network packet analyzer developed using the Scapy library, designed to capture and analyze network traffic in real-time. It focuses on IP-based packets and provides insights into network protocols like TCP, UDP, and ICMP.
 
 ### **Key Features** 📋:  
@@ -40,3 +40,8 @@ This tool is a Python-based network packet analyzer developed using the Scapy li
 ---
 
 This tool is a lightweight yet powerful solution for **network traffic analysis**, making it useful for **network security research** and understanding real-time traffic patterns. Looking forward to applying these concepts in more advanced projects! 🚀
+
+### **Code**  
+
+Here is the Python code for the Network Packet Analyzer:
+```
